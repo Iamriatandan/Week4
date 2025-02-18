@@ -18,4 +18,3 @@ public class TemperatureConverterTest {
             assertEquals(38, converter.fahrenheitToCelsius(100.4), 0.001);
         }
     }
-    
