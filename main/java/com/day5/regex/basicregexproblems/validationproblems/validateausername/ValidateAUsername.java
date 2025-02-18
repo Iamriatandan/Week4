@@ -1,4 +1,4 @@
-package com.day5.regex.basicregexproblems.validateausername;
+package com.day5.regex.basicregexproblems.validationproblems.validateausername;
 import java.util.regex.*;
 import java.util.*;
 public class ValidateAUsername {

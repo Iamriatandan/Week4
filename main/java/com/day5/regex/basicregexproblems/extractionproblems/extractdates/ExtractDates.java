@@ -1,4 +1,4 @@
-package com.day5.regex.extractionproblems.extractdates;
+package com.day5.regex.basicregexproblems.extractionproblems.extractdates;
 import java.util.*;
 import java.util.regex.*;
 

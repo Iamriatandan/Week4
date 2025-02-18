@@ -1,4 +1,4 @@
-package com.day5.regex.basicregexproblems.validatealicenseplatenumber;
+package com.day5.regex.basicregexproblems.validationproblems.validatealicenseplatenumber;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

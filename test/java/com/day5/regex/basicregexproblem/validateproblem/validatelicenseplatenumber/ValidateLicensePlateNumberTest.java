@@ -1,7 +1,7 @@
-package com.day5.regex.basicregexproblem.validatelicenseplatenumber;
+package com.day5.regex.basicregexproblem.validateproblem.validatelicenseplatenumber;
 import static org.junit.jupiter.api.Assertions.*;
 
-import com.day5.regex.basicregexproblems.validatealicenseplatenumber.ValidateALisencePlateNumber;
+import com.day5.regex.basicregexproblems.validationproblems.validatealicenseplatenumber.ValidateALisencePlateNumber;
 import org.junit.jupiter.api.Test;
 public class ValidateLicensePlateNumberTest {
 

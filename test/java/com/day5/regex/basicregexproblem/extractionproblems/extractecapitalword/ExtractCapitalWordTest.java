@@ -1,6 +1,6 @@
-package com.day5.regex.extractionproblems.extractecapitalword;
+package com.day5.regex.basicregexproblem.extractionproblems.extractecapitalword;
 
-import com.day5.regex.extractionproblems.extractcapitalwords.ExtractCapitalWords;
+import com.day5.regex.basicregexproblems.extractionproblems.extractcapitalwords.ExtractCapitalWords;
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
 import java.util.List;

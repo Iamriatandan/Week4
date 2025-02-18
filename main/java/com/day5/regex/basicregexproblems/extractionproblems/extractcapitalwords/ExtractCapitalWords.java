@@ -1,4 +1,4 @@
-package com.day5.regex.extractionproblems.extractcapitalwords;
+package com.day5.regex.basicregexproblems.extractionproblems.extractcapitalwords;
 
 import java.util.ArrayList;
 import java.util.List;

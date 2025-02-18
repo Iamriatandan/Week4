@@ -1,4 +1,4 @@
-package com.day5.regex.extractionproblems.extractemailaddress;
+package com.day5.regex.basicregexproblems.extractionproblems.extractemailaddress;
 
 import java.util.ArrayList;
 import java.util.List;

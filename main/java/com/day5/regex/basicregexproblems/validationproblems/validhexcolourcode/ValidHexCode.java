@@ -1,4 +1,4 @@
-package com.day5.regex.basicregexproblems.validhexcolourcode;
+package com.day5.regex.basicregexproblems.validationproblems.validhexcolourcode;
 import java.util.*;
 public class ValidHexCode {
     public static void main(String[] args) {

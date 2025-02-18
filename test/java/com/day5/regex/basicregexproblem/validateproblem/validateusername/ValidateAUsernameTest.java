@@ -1,8 +1,10 @@
-package com.day5.regex.basicregexproblem.validateusername;
+package com.day5.regex.basicregexproblem.validateproblem.validateusername;
 
 import static org.junit.jupiter.api.Assertions.*;
+
+import com.day5.regex.basicregexproblems.validationproblems.validateausername.ValidateAUsername;
 import org.junit.jupiter.api.Test;
-import com.day5.regex.basicregexproblems.validateausername.*;
+
 public class ValidateAUsernameTest {
     @Test
     public void testValidInput() {

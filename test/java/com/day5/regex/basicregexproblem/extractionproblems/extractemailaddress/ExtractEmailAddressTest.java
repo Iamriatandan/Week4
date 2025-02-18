@@ -1,5 +1,6 @@
-package com.day5.regex.extractionproblems.extractemailaddress;
+package com.day5.regex.basicregexproblem.extractionproblems.extractemailaddress;
 
+import com.day5.regex.basicregexproblems.extractionproblems.extractemailaddress.ExtractEmailAddress;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

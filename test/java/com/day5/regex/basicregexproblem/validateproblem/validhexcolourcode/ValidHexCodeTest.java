@@ -1,7 +1,7 @@
-package com.day5.regex.basicregexproblem.validhexcolourcode;
+package com.day5.regex.basicregexproblem.validateproblem.validhexcolourcode;
 import static org.junit.jupiter.api.Assertions.*;
 
-import com.day5.regex.basicregexproblems.validhexcolourcode.ValidHexCode;
+import com.day5.regex.basicregexproblems.validationproblems.validhexcolourcode.ValidHexCode;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
